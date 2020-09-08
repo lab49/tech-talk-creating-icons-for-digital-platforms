@@ -1,7 +1,7 @@
 {
-  "name": "lab49-tech-talk-creating-and-exporting-icons",
+  "name": "lab49-tech-talk-creating-icons-for-digital-platforms",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lab49 TechTalk: Creating icons for digital platforms",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
