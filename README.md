@@ -1,4 +1,6 @@
-# Creating icons for digital platforms
+<img src="/.github/tech-talk-logo.svg" width="400" />
+
+# Lab49 TechTalk: Creating icons for digital platforms
 
 This is a companion repository to the [Lab49](https://www.lab49.com/) tech talk of the same name.
 
