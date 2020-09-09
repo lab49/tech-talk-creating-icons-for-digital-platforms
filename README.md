@@ -2,15 +2,21 @@
 
 This is a companion repository to the [Lab49](https://www.lab49.com/) tech talk of the same name.
 
-There is a video recording of the talk on [YouTube](https://youtu.be/). Further discussion can be found at [LinkedIn](https://www.linkedin.com).
+There is a video recording of the talk on [YouTube](https://www.youtube.com/watch?v=5_gkDf4YDJ8). Further discussion can be found at [LinkedIn](https://www.linkedin.com).
 
-Figma presentation: https://www.figma.com/file/VwGpRo1jt8lbz9JNaoKh4X/Icon-Presentation?node-id=0%3A1
+Figma presentation: https://www.figma.com/file/VwGpRo1jt8lbz9JNaoKh4X/Icon-Presentation
 
 ---
 
-TODO: Description
+In this two-part tech talk, James Cutts and Brian Wm. McAllister walk through the process of creating icons correctly in design software, all the way through to incoprorating those icons in your application.
 
-Further resources:
+James shows how to ensure that the icons you create are crisp and perfect when originally drawn. James also shows how to translate icons drawn at one size to another size the correct way, so that your gorgeous icons stays crisp and perfect at all sizes.
+
+James also created a custom icons template you can use to set up your icon drawings. It's important that icons as part of a set follow a similar set of sizing and spacing guidelines, and this template is the perfect way to get started.
+
+In the second part, Brian leads a discussion of how to take icons created in design software and use them in your appliction. This GitHub repository includes a Storybook that demonstrates all of the concepts that James describes, plus how to use SVG icons as sprites, external references, inline, and demonstrates the pros and cons of all the options.
+
+#### Further resources:
 
 https://www.nngroup.com/articles/icon-usability
 https://material.io/design/iconography/product-icons.html#grid-and-keyline-shapes
