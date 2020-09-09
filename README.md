@@ -18,16 +18,16 @@ In the second part, Brian leads a discussion of how to take icons created in des
 
 #### Further resources:
 
-https://www.nngroup.com/articles/icon-usability
-https://material.io/design/iconography/product-icons.html#grid-and-keyline-shapes
-https://www.designsystems.com/iconography-guide/
-https://www.smashingmagazine.com/2016/05/easy-steps-to-better-logo-design/
-https://fontawesome.com/
-https://icons.getbootstrap.com/
-https://github.com/gregberge/svgr
-https://github.com/svg/svgo
-https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/
-https://jakearchibald.github.io/svgomg/
+- Icon Usability by Nielson Norman Group: https://www.nngroup.com/articles/icon-usability
+- Material Design Grid and keyline shapes: https://material.io/design/iconography/product-icons.html#grid-and-keyline-shapes
+- A complete guide to iconography: https://www.designsystems.com/iconography-guide/
+- 6 Easy Steps To Better Icon Design: https://www.smashingmagazine.com/2016/05/easy-steps-to-better-logo-design/
+- Font Awesome: https://fontawesome.com/
+- Bootstrap Icons: https://icons.getbootstrap.com/
+- SVGR: https://github.com/gregberge/svgr
+- SVGO: https://github.com/svg/svgo
+- SVGOMG: https://jakearchibald.github.io/svgomg/
+- The UX of Lego interface panels: https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/
 
 ## Getting started
 
