@@ -1,4 +1,4 @@
-<img src="/.github/tech-talk-logo.svg" width="400" />
+<img src="/.github/tech-talk-logo.png" width="400" />
 
 # Lab49 TechTalk: Creating icons for digital platforms
 
