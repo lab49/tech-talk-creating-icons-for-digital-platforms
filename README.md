@@ -4,7 +4,7 @@
 
 This is a companion repository to the [Lab49](https://www.lab49.com/) tech talk of the same name.
 
-There is a video recording of the talk on [YouTube](https://www.youtube.com/watch?v=5_gkDf4YDJ8). Further discussion can be found at [LinkedIn](https://www.linkedin.com).
+There is a video recording of the talk on [YouTube](https://youtu.be/nRzPi7Vh_qI). Further discussion can be found at [LinkedIn](https://www.linkedin.com).
 
 Figma presentation: https://www.figma.com/file/VwGpRo1jt8lbz9JNaoKh4X/Icon-Presentation
 
